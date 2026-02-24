@@ -1,0 +1,8 @@
+body{margin:0;background:#fafaf7;color:#222;font:17px/1.65 Georgia,serif}
+.wrap{max-width:680px;margin:0 auto;padding:40px 20px 80px}
+header a{color:#222;text-decoration:none;font-weight:700}
+nav a{margin-right:14px;color:#555}
+h1{font-size:1.7rem;line-height:1.2}
+.date{color:#888;font-size:.9rem}
+a{color:#2a6}
+footer{margin-top:60px;color:#999;font-size:.85rem}
